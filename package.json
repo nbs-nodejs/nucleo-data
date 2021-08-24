@@ -1,6 +1,6 @@
 {
   "name": "@nucleo-nodejs/data",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Data utility for Node.js. Written in TypeScript",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
