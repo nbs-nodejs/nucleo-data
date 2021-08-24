@@ -7,3 +7,4 @@ export * from "./error";
 export * from "./parser";
 export * from "./secure-generator";
 export * from "./urlsafe-base64";
+export * from "./object";
