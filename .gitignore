@@ -112,3 +112,6 @@ dist
 
 # Temporary dirs
 /.tmp/
+
+# Ignore .npmrc
+.npmrc
