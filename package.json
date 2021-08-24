@@ -1,5 +1,5 @@
 {
-  "name": "@nbs-nucleo/data",
+  "name": "@nucleo-nodejs/data",
   "version": "0.0.1",
   "description": "Data utility for Node.js. Written in TypeScript",
   "main": "lib/index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nbs-nodejs/nucleo-data.git"
+    "url": "git+https://code.nbs.dev/nucleo-nodejs/data.git"
   },
   "keywords": [],
   "author": "Saggaf <saggaf@nusantarabetastudio.com>",

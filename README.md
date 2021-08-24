@@ -1,4 +1,4 @@
-# @nbs-nucleo/data
+# @nucleo-nodejs/data
 
 Data Utility for Node.js. Written in TypeScript
 
