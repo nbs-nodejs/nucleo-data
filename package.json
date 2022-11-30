@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://code.nbs.dev/nucleo-nodejs/data.git"
+    "url": "git+https://github.com/nbs-nodejs/nucleo-data.git"
   },
   "keywords": [],
   "author": "Saggaf <saggaf@nusantarabetastudio.com>",
